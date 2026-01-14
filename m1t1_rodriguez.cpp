@@ -9,8 +9,7 @@ using namespace std;
 int main() {
     cout << "Hello World" << endl; // E N D L
     cout << "Whats up" << endl; // E N D L
-    cout << endl; // another new line 
-    return 0; // no errors 
+    cout << endl; // another new line  
 
     /*
     next we will:
@@ -18,5 +17,12 @@ int main() {
     - ask them for the name
     - greet them by name 
     */
+   string name; // new "box" to hold a name in
+   cout << "whats your name?" ; 
+   cin >> name; // read in their answer
+   // finally, say hi to them
+   cout << "Well hi," << name << "!" << endl;
+
+
    return 0; // no errors
 } 
