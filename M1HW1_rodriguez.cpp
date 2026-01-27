@@ -18,4 +18,14 @@ cout << "Movie: " << movieName << endl;
 cout << "Released in: " << releaseYear << endl;
 cout << "Box office gross : $" << boxOffice << " million" << endl;
 cout << endl;
+
+// Favorite movie quote from my chosen scene
+cout << "Favorite quote:" << endl;
+
+cout << "\"Tashi Donaldson: You don't know what tennis is.\"" << endl;
+cout << "\"Patrick Zweig: What is it?\"" << endl;
+cout << "\"Tashi Donaldson: It's a relationship.\"" << endl;
+cout << "\"Patrick Zweig: Is that what you and Anna Mueller had today?\"" << endl;
+cout << "\"Tashi Donaldson: It is, actually. For about fifteen seconds there, we were actually playing tennis. And we undertood each other completely. So did everyone watching. It's like we were in love. Or like we didn't exist. We went somewhere really beautiful together.\"" << endl;
+cout << endl;
 }
